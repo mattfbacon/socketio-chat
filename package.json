@@ -1,0 +1,10 @@
+{
+	"name": "socketio-chat",
+	"version": "0.1",
+	"main": "index.js",
+	"license": "AGPL-3.0-or-later",
+	"dependencies": {
+		"express": "^4.17.1",
+		"socket.io": "^4.3.1"
+	}
+}
